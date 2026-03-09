@@ -1,91 +1,84 @@
-# 👨🏻‍💻 Douglas Silva
+<h1 align="center">👨‍💻 Douglas Aparecido da Silva</h1>
 
-**`Desenvolvedor FullStack`**
-
-Me chamo Douglas, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Ciência da Computação na Cruzeiro do Sul. Sou apaixonado por tecnologia e um futuro Desenvolvedor FullStack.
-
-
+<p align="center">
+🎓 Estudante de Ciência da Computação <br>
+💻 Desenvolvedor em formação <br>
+📍 São Paulo – Brasil
+</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Lua" 
-    title="Lua"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>    
-          
-<br/>
-<br/>
+Sou estudante de **Ciência da Computação na Universidade Cruzeiro do Sul**, atualmente no **2º semestre**.  
+Tenho grande interesse em **desenvolvimento de software, programação e tecnologia**.
 
-### 📊 Estatísticas
+Atualmente estou focado em evoluir minhas habilidades em **Python e JavaScript**, criando projetos práticos e estudando conceitos fundamentais de programação.
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Beckerr11&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beckerr11&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
-  />
+## 🧠 Tecnologias e Ferramentas
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px"/>
 
 </p>
+
+---
+
+## 📚 Atualmente estudando
+
+- Python
+- JavaScript
+- Estruturas de Dados
+- Git e GitHub
+- Desenvolvimento Web
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api?username=Beckerr11&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
+
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beckerr11&theme=tokyonight&layout=compact&langs_count=7"
+/>
+
+</p>
+
+---
+
+## 📂 Projetos em destaque
+
+🚧 Em desenvolvimento...
+
+Alguns projetos que estarão aqui:
+
+- Calculadora em Python
+- Gerador de Senhas
+- Lista de Tarefas em JavaScript
+- API simples em Python
+- Portfólio Web
+
+---
+
+## 📫 Contato
+
+📧 **Email:** douglasaparecidodasilva@gmail.com
+
+---
+
+⭐ Sempre estudando e evoluindo no mundo da tecnologia.
