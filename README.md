@@ -31,7 +31,17 @@ Goal        -> internship / junior software development opportunity
 
 Sou estudante de **Ciência da Computação** e desenvolvedor Full Stack em formação. Uso meus projetos para praticar o ciclo completo de engenharia: **interface, API, persistência, autenticação, testes, automação, observabilidade, segurança e deploy**.
 
-Prefiro projetos que possam ser abertos, executados e avaliados tecnicamente. Por isso, procuro separar com clareza o que é **produto**, **demo**, **experimento** e **trabalho em evolução**.
+Prefiro projetos que possam ser abertos, executados e avaliados tecnicamente. Por isso, separo com clareza o que é **produto**, **demo**, **experimento** e **trabalho em evolução** — e evito apresentar roadmap como funcionalidade pronta.
+
+## Se você está avaliando meu perfil
+
+Se tiver poucos minutos, estes três projetos mostram áreas diferentes do meu trabalho:
+
+1. **[URL Shortener API](https://github.com/Beckerr11/url-shortener-api)** — backend HTTP, testes de integração, container Docker executável, health check e CI.
+2. **[Client Portal Pro](https://github.com/Beckerr11/client-portal-pro)** — fluxo full stack com React, Node/Express, validação, testes e checkout reproduzível.
+3. **[GitHub Security Automation](https://github.com/Beckerr11/github-security-automation)** — Python, GitHub API, automação defensiva, Pytest, CI e CodeQL.
+
+O padrão que procuro demonstrar é simples: **afirmações no README precisam ter evidência no código, nos testes ou no CI**.
 
 ## Stack principal
 
@@ -62,10 +72,10 @@ Prefiro projetos que possam ser abertos, executados e avaliados tecnicamente. Po
 
 | Projeto | O que demonstra | Engenharia / stack |
 | --- | --- | --- |
-| **[URL Shortener API](https://github.com/Beckerr11/url-shortener-api)** | API funcional de encurtamento, aliases personalizados, redirect, analytics básicos e health check | Node.js · Express · Jest · Supertest · CI · Dependabot |
+| **[URL Shortener API](https://github.com/Beckerr11/url-shortener-api)** | API funcional de encurtamento, aliases, redirect, analytics e health check | Node.js · Express · Jest · Supertest · Docker · CI · Dependabot |
 | **[Client Portal Pro](https://github.com/Beckerr11/client-portal-pro)** | Fluxo full stack para demandas, filtros, exportação CSV e API validada | React · Node.js · Express · Zod · Tests · CI |
-| **[GitHub Security Automation](https://github.com/Beckerr11/github-security-automation)** | Automação de auditoria de configurações de segurança de repositórios | Python · GitHub API · Pytest · CI · CodeQL |
-| **[Fullstack E2E Blueprint](https://github.com/Beckerr11/fullstack-e2e-blueprint)** | Blueprint backend orientado a testes com fluxo HTTP ponta a ponta | Node.js · Smoke Tests · E2E · CI · Dependabot |
+| **[GitHub Security Automation](https://github.com/Beckerr11/github-security-automation)** | Automação defensiva para avaliar configurações e evidências de segurança de repositórios | Python · GitHub API · Pytest · CI · CodeQL |
+| **[Fullstack E2E Blueprint](https://github.com/Beckerr11/fullstack-e2e-blueprint)** | Backend pequeno orientado a contrato HTTP e fluxo ponta a ponta | Node.js · Smoke Tests · E2E · CI · Dependabot |
 | **[SaaS Auth Dashboard Demo](https://github.com/Beckerr11/saas-auth-dashboard-demo)** | Showcase público de UX de autenticação, sessão e dashboard com escopo de demo explícito | React · Vite · localStorage · Tests · [Demo](https://saas-auth-dashboard-demo.vercel.app) |
 | **[CRM Comercial Demo](https://github.com/Beckerr11/crm-comercial-fullstack)** | Showcase público de clientes, catálogo, propostas e compartilhamento | React · Vite · camada mock · localStorage · [Demo](https://crm-comercial-fullstack.vercel.app) |
 
@@ -89,7 +99,7 @@ Prefiro projetos que possam ser abertos, executados e avaliados tecnicamente. Po
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" alt="Linguagens mais presentes nos commits" />
 </p>
 
-> Auditoria atual do ecossistema: **39 repositórios**, sendo **32 públicos** e **7 privados**. Os cards automáticos usam somente dados que o workflow consegue consultar com segurança; projetos privados não têm nomes ou conteúdo expostos no perfil.
+> Os cards automáticos usam somente dados que o workflow consegue consultar com segurança. Repositórios privados não têm nomes nem conteúdo expostos no perfil público.
 
 ## Atividade recente
 
@@ -97,15 +107,15 @@ Prefiro projetos que possam ser abertos, executados e avaliados tecnicamente. Po
   <img src="./assets/github-activity.svg" width="100%" alt="Atividade recente de Douglas Silva no GitHub" />
 </div>
 
-Os cards de análise são gerados pelo **GitHub Actions deste próprio repositório** e atualizados diariamente. A timeline acima prioriza eventos públicos que um recrutador consegue abrir e verificar diretamente.
+Os cards de análise são gerados pelo **GitHub Actions deste próprio repositório** e atualizados diariamente. A timeline prioriza eventos públicos que um recrutador consegue abrir e verificar diretamente.
 
 ## O que você encontra neste GitHub
 
-- **APIs e backend:** contratos HTTP, validação, testes e organização de serviços.
-- **Produtos full stack:** aplicações que conectam interface, dados, autenticação e fluxo de negócio.
-- **Qualidade:** Jest/Pytest, CI, Dependabot, Docker e documentação reprodutível onde fazem sentido.
-- **Segurança:** automações defensivas, validações explícitas e projetos com escopo técnico bem delimitado.
-- **Evolução:** projetos de estudo coexistem com aplicações maiores e mostram progressão prática ao longo do tempo.
+- **APIs e backend:** contratos HTTP, validação, autenticação, testes e organização de serviços.
+- **Produtos full stack:** aplicações que conectam interface, dados e fluxo de negócio.
+- **Qualidade:** Jest/Pytest, CI, Dependency Review, Dependabot, Docker e documentação reprodutível onde fazem sentido.
+- **Segurança:** automações defensivas, limites explícitos e evidência separada de hipótese ou funcionalidade futura.
+- **Evolução:** projetos de estudo continuam como histórico, mas a seleção principal prioriza software tecnicamente verificável.
 
 ---
 
