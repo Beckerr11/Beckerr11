@@ -59,7 +59,7 @@ Nos projetos que mantenho, procuro deixar claro o que é **produção**, o que �
 
 | Projeto | O que demonstra | Stack / práticas |
 | --- | --- | --- |
-| **[URL Shortener API](https://github.com/Beckerr11/url-shortener-api)** | API de encurtamento com cache, analytics, TTL, QR Code e rate limiting | Node.js · Express · MongoDB · Redis · Jest · Docker |
+| **[URL Shortener API](https://github.com/Beckerr11/url-shortener-api)** | API funcional com validação, aliases personalizados, redirecionamento, analytics básicos e health check | Node.js · Express · Jest · Supertest · CI · Dependabot |
 | **[Client Portal Pro](https://github.com/Beckerr11/client-portal-pro)** | Fluxo full stack para demandas, filtros, exportação CSV e API validada | React · Node.js · Express · Zod · Tests · CI |
 | **[GitHub Security Automation](https://github.com/Beckerr11/github-security-automation)** | Auditoria automatizada de configurações de segurança e compliance em repositórios | Python · GitHub API · Pytest · CI · CodeQL |
 | **[Fullstack E2E Blueprint](https://github.com/Beckerr11/fullstack-e2e-blueprint)** | Blueprint backend orientado a testes com fluxo HTTP ponta a ponta | Node.js · Smoke Tests · E2E · CI · Dependabot |
