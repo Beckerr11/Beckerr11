@@ -79,7 +79,17 @@ Prefiro projetos que possam ser abertos, executados e avaliados tecnicamente. Po
   <img src="./assets/github-overview.svg" width="100%" alt="Resumo do GitHub de Douglas Silva" />
 </div>
 
-> Os números acima refletem a auditoria atual do ecossistema: **39 repositórios**, sendo **32 públicos** e **7 privados**. Os projetos privados entram apenas na contagem agregada; nomes e conteúdo não são expostos aqui.
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="48%" alt="Estatísticas de commits, PRs e issues" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="48%" alt="Distribuição de atividade por horário" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" alt="Linguagens por repositório" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" alt="Linguagens mais presentes nos commits" />
+</p>
+
+> Auditoria atual do ecossistema: **39 repositórios**, sendo **32 públicos** e **7 privados**. Os cards automáticos usam somente dados que o workflow consegue consultar com segurança; projetos privados não têm nomes ou conteúdo expostos no perfil.
 
 ## Atividade recente
 
@@ -87,7 +97,7 @@ Prefiro projetos que possam ser abertos, executados e avaliados tecnicamente. Po
   <img src="./assets/github-activity.svg" width="100%" alt="Atividade recente de Douglas Silva no GitHub" />
 </div>
 
-A atividade exibida prioriza eventos públicos que um recrutador consegue abrir e verificar diretamente no GitHub. Métricas automáticas adicionais são geradas pelo próprio repositório para reduzir dependência de serviços externos sujeitos a rate limit ou indisponibilidade.
+Os cards de análise são gerados pelo **GitHub Actions deste próprio repositório** e atualizados diariamente. A timeline acima prioriza eventos públicos que um recrutador consegue abrir e verificar diretamente.
 
 ## O que você encontra neste GitHub
 
