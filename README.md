@@ -123,7 +123,7 @@ Os cards de análise são gerados pelo **GitHub Actions deste próprio repositó
 
 **Full Stack · Backend · Software Engineering**
 
-<a href="https://douglasdev.tech">Portfólio</a> · <a href="https://www.linkedin.com/in/douglassilva11">LinkedIn</a> · <a href="mailto:douglasaparecidodasilva@gmail.com">Contato</a>
+<a href="https://douglasdev.tech">Portfólio</a> 
 
 <sub>Projetos e capacidades são descritos de acordo com o estado verificável de cada repositório.</sub>
 
