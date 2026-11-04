@@ -9,8 +9,6 @@
 Construo aplicações web, APIs e automações com foco em **código verificável, testes, segurança, documentação e entrega real**.
 
 <a href="https://douglasdev.tech"><img src="https://img.shields.io/badge/PORTFÓLIO-douglasdev.tech-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
-<a href="https://www.linkedin.com/in/douglassilva11"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:douglasaparecidodasilva@gmail.com"><img src="https://img.shields.io/badge/CONTATO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 <a href="https://douglasdev.tech/curriculo-douglas-aparecido-silva.pdf"><img src="https://img.shields.io/badge/CURRÍCULO-222222?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Currículo" /></a>
 
 </div>
