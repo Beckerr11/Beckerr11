@@ -4,7 +4,7 @@
 
 # Douglas Silva
 
-**Desenvolvedor Full Stack em formação · Ciência da Computação · São Paulo, Brasil**
+**Desenvolvedor · Ciência da Computação · São Paulo, Brasil**
 
 Construo aplicações web, APIs e automações com foco em **código verificável, testes, segurança, documentação e entrega real**.
 
@@ -22,12 +22,12 @@ Computer Science student building production-minded software.
 
 Focus       -> Full Stack / Backend / Software Engineering
 Engineering -> APIs, tests, CI/CD, security and documentation
-Goal        -> internship / junior software development opportunity
+Goal        -> internship / software development opportunity
 ```
 
 ## Sobre mim
 
-Sou estudante de **Ciência da Computação** e desenvolvedor Full Stack em formação. Uso meus projetos para praticar o ciclo completo de engenharia: **interface, API, persistência, autenticação, testes, automação, observabilidade, segurança e deploy**.
+Sou estudante de **Ciência da Computação** e desenvolvedor. Uso meus projetos para praticar o ciclo completo de engenharia: **interface, API, persistência, autenticação, testes, automação, observabilidade, segurança e deploy**.
 
 Prefiro projetos que possam ser abertos, executados e avaliados tecnicamente. Por isso, separo com clareza o que é **produto**, **demo**, **experimento** e **trabalho em evolução** — e evito apresentar roadmap como funcionalidade pronta.
 
@@ -119,7 +119,7 @@ Os cards de análise são gerados pelo **GitHub Actions deste próprio repositó
 
 <div align="center">
 
-### Aberto a oportunidades de estágio e desenvolvimento de software
+### Aberto a oportunidades de desenvolvimento de software
 
 **Full Stack · Backend · Software Engineering**
 
