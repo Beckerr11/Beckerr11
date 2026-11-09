@@ -2,9 +2,9 @@
 
 <img src="assets/becker-banner.svg" width="100%" alt="Becker — code, coffee, craft" />
 
-### Backend · Engenharia reversa · IA · Ferramentas para jogos
+### Backend · Engenharia reversa · IA · Cibersegurança
 
-Explorando software por dentro e construindo APIs, automações e ferramentas para jogos.
+Explorando software por dentro e construindo APIs, ferramentas e automações.
 
 [![GitHub](https://img.shields.io/badge/Beckerr11-0d1117?style=for-the-badge&logo=github&logoColor=79e6b3)](https://github.com/Beckerr11?tab=repositories)
 [![Atividade](https://img.shields.io/badge/Atividade_pública-0d1117?style=for-the-badge&logo=git&logoColor=79e6b3)](https://github.com/Beckerr11?tab=overview)
@@ -13,11 +13,12 @@ Explorando software por dentro e construindo APIs, automações e ferramentas pa
 
 ## `becker@github:~$ whoami`
 
-Sou Becker. Meu foco atual é backend, engenharia reversa, inteligência artificial e desenvolvimento de cheats e ferramentas para jogos. Gosto de entender como os sistemas funcionam por dentro e transformar esse conhecimento em ferramentas e automações.
+Sou Becker. Trabalho com backend, engenharia reversa e inteligência artificial. Também estou aprendendo cibersegurança, aprofundando meus estudos em análise de software e segurança de aplicações. Gosto de entender como os sistemas funcionam por dentro e transformar esse conhecimento em ferramentas e automações.
 
 ```text
-build     backends + APIs + ferramentas para jogos
+build     backends + APIs + ferramentas
 explore   engenharia reversa + análise de software
+learn     cibersegurança + segurança de aplicações
 automate  inteligência artificial + automação
 fuel      coffee
 ```
@@ -34,7 +35,7 @@ fuel      coffee
 ## Ferramentas do dia a dia
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,mongodb,redis,docker,git,githubactions&theme=dark&perline=10" alt="TypeScript, JavaScript, React, Node.js, Python, MongoDB, Redis, Docker, Git e GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,cs,cpp&theme=dark&perline=5" alt="Python, TypeScript, JavaScript, C# e C++" />
 </p>
 
 ## GitHub em movimento
@@ -43,7 +44,7 @@ fuel      coffee
 
 <img src="assets/github-activity.svg" width="100%" alt="Atividade pública recente de Becker" />
 
-<sub>Dados públicos consultados pela API do GitHub. Atualização automática programada a cada 5 minutos, sujeita à fila do GitHub Actions e ao cache de imagens. O horário da última coleta aparece nos cards. PRs em outros repositórios entram na próxima coleta.</sub>
+<sub>Totais consultados diretamente na API do GitHub desde a criação da conta. Atividade privada aparece apenas em números agregados. Commits e contribuições seguem as regras de atribuição do perfil; não representam todos os commits de todas as branches. O horário e o alcance da última coleta aparecem nos cards. [Dados da coleta](assets/metrics.json).</sub>
 
 ---
 
