@@ -44,7 +44,7 @@ fuel      coffee
 
 <img src="assets/github-activity.svg" width="100%" alt="Atividade pública recente de Becker" />
 
-<sub>Totais consultados diretamente na API do GitHub desde a criação da conta. Atividade privada aparece apenas em números agregados. Commits e contribuições seguem as regras de atribuição do perfil; não representam todos os commits de todas as branches. O horário e o alcance da última coleta aparecem nos cards. [Dados da coleta](assets/metrics.json).</sub>
+<sub>Totais consultados diretamente na API do GitHub desde a criação da conta. Atividade privada aparece apenas em números agregados. Commits e contribuições seguem as regras de atribuição do perfil; não representam todos os commits de todas as branches. Coleta automática pelo GitHub Actions a cada 5 minutos, sujeita à fila de execução e ao cache de imagens. O horário e o alcance da última coleta aparecem nos cards. [Dados da coleta](assets/metrics.json).</sub>
 
 ---
 
