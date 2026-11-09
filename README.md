@@ -2,9 +2,9 @@
 
 <img src="assets/becker-banner.svg" width="100%" alt="Becker — code, coffee, craft" />
 
-### Full Stack · Backend · Automação
+### Backend · Engenharia reversa · IA · Ferramentas para jogos
 
-Aplicações, APIs e ferramentas feitas com atenção ao código e à experiência de quem usa.
+Explorando software por dentro e construindo APIs, automações e ferramentas para jogos.
 
 [![GitHub](https://img.shields.io/badge/Beckerr11-0d1117?style=for-the-badge&logo=github&logoColor=79e6b3)](https://github.com/Beckerr11?tab=repositories)
 [![Atividade](https://img.shields.io/badge/Atividade_pública-0d1117?style=for-the-badge&logo=git&logoColor=79e6b3)](https://github.com/Beckerr11?tab=overview)
@@ -13,12 +13,12 @@ Aplicações, APIs e ferramentas feitas com atenção ao código e à experiênc
 
 ## `becker@github:~$ whoami`
 
-Desenvolvedor e estudante de Ciência da Computação. Trabalho com interfaces, APIs, persistência, testes e automação. Gosto de transformar ideias em projetos que possam ser executados, inspecionados e melhorados.
+Sou Becker. Meu foco atual é backend, engenharia reversa, inteligência artificial e desenvolvimento de cheats e ferramentas para jogos. Gosto de entender como os sistemas funcionam por dentro e transformar esse conhecimento em ferramentas e automações.
 
 ```text
-build     interfaces claras + APIs bem definidas
-ship      testes + documentação + CI/CD
-explore   automação + ferramentas + engenharia de software
+build     backends + APIs + ferramentas para jogos
+explore   engenharia reversa + análise de software
+automate  inteligência artificial + automação
 fuel      coffee
 ```
 
