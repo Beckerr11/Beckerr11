@@ -2,9 +2,9 @@
 
 <img src="assets/becker-banner.svg" width="100%" alt="Becker — code, coffee, craft" />
 
-### Backend Developer · Reverse Engineering · Artificial Intelligence
+### Backend · Reverse Engineering · Artificial Intelligence · Cybersecurity
 
-`[ BUILDING ]` &nbsp; ` [ RESEARCHING ] ` &nbsp; `[ LEARNING ]`
+`[ BUILDING ]` &nbsp; ` [ EXPLORING ] ` &nbsp; `[ REFINING ]`
 
 </div>
 
@@ -14,33 +14,31 @@
 
 ```text
 alias      Becker
-work       Backend · APIs · Automação
-research   Engenharia reversa · Análise de software · IA
-learning   Cibersegurança · Segurança de aplicações
-mindset    Entender. Construir. Refinar.
+build      Backends · APIs · Developer tools
+explore    Reverse engineering · Software analysis · AI
+interests  Cybersecurity · Application security
+mindset    Understand. Build. Refine.
 ```
 
-Trabalho com backend, engenharia reversa e inteligência artificial. Gosto de explorar como os sistemas funcionam por dentro, investigar seu comportamento e transformar esse conhecimento em ferramentas e automações.
+I work on backends, reverse engineering, and AI applications. I enjoy understanding how software works beneath the surface, investigating its behavior, and turning that knowledge into useful tools and automation.
 
-Estou aprofundando meus estudos em cibersegurança, conectando análise de software e segurança de aplicações ao que desenvolvo.
+My interests also include cybersecurity, application security, and the connection between building software and understanding its internals.
 
 ---
 
 ## `$ cat focus.txt`
 
 ```text
-[ Backend Engineering ]   APIs · Persistência · Integrações · Testes
-[ Reverse Engineering ]   Comportamento de software · Formatos · Ferramentas
-[ Artificial Intelligence ]   Aplicações com IA · Automação
-[ Cybersecurity / Learning ]  Segurança de aplicações · Análise técnica
+[ Backend ]              APIs · Data persistence · Integrations · Testing
+[ Reverse Engineering ]  Software behavior · File formats · Tooling
+[ AI & Automation ]      AI applications · Workflow automation
+[ Cybersecurity ]        Application security · Software analysis
 ```
-
----
 
 ## `$ ls languages/`
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,ts,js,cs,cpp&theme=dark&perline=5" alt="Python, TypeScript, JavaScript, C# e C++" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,cs,cpp&theme=dark&perline=5" alt="Python, TypeScript, JavaScript, C# and C++" />
 </p>
 
 <p align="center"><sub>Python · TypeScript · JavaScript · C# · C++</sub></p>
@@ -49,33 +47,35 @@ Estou aprofundando meus estudos em cibersegurança, conectando análise de softw
 
 ## `$ ls projects/`
 
-| Projeto | Foco |
+| Project | Focus |
 | :--- | :--- |
-| [URL Shortener API](https://github.com/Beckerr11/url-shortener-api) | Backend HTTP, encurtamento de URLs e testes |
-| [Client Portal Pro](https://github.com/Beckerr11/client-portal-pro) | Interface React e API Node.js |
-| [GitHub Security Automation](https://github.com/Beckerr11/github-security-automation) | Python, GitHub API e automação |
-| [Fullstack E2E Blueprint](https://github.com/Beckerr11/fullstack-e2e-blueprint) | Contratos HTTP e testes ponta a ponta |
+| [URL Shortener API](https://github.com/Beckerr11/url-shortener-api) | HTTP backend, URL shortening, and testing |
+| [Client Portal Pro](https://github.com/Beckerr11/client-portal-pro) | React interface and Node.js API |
+| [GitHub Security Automation](https://github.com/Beckerr11/github-security-automation) | Python, GitHub API, and automation |
+| [Fullstack E2E Blueprint](https://github.com/Beckerr11/fullstack-e2e-blueprint) | HTTP contracts and end-to-end testing |
 
-<p align="center"><a href="https://github.com/Beckerr11?tab=repositories">Explorar repositórios →</a></p>
+<p align="center"><a href="https://github.com/Beckerr11?tab=repositories">Explore repositories →</a></p>
 
 ---
 
 ## `$ github --stats`
 
-<img src="assets/github-overview.svg" width="100%" alt="Estatísticas da conta Becker: totais públicos e privados agregados" />
+<img src="assets/github-overview.svg" width="100%" alt="Becker: contributions, pull requests, merged PRs, profile commits, repositories, and issues" />
 
 <details>
-<summary>Sobre os números e a atualização</summary>
+<summary>More stats & data coverage</summary>
 
-Totais consultados diretamente na API do GitHub desde a criação da conta. Atividade privada aparece apenas em números agregados. Commits e contribuições seguem as regras de atribuição do perfil; não representam todos os commits de todas as branches.
+<img src="assets/github-details.svg" width="100%" alt="Detailed account statistics" />
 
-Coleta automática pelo GitHub Actions a cada 5 minutos, sujeita à fila de execução e ao cache de imagens. O horário e o alcance da última coleta aparecem nos cards. [Dados da coleta](assets/metrics.json).
+Account totals are collected directly from the GitHub API, including accessible private activity as aggregate counts only. Commit and contribution counts follow GitHub profile attribution rules; they do not represent every commit on every branch.
+
+GitHub Actions checks for updates every 5 minutes, even when my computer is offline. Workflow queues and image caching may delay updates. Each card shows the collection timestamp. [Full dataset](assets/metrics.json).
 
 </details>
 
 ## `$ github --activity`
 
-<img src="assets/github-activity.svg" width="100%" alt="Pull requests públicos recentes de Becker" />
+<img src="assets/github-activity.svg" width="100%" alt="Recent public pull request updates" />
 
 ---
 

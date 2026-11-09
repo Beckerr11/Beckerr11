@@ -36,7 +36,7 @@ jobs:
         run: |
           git config user.name 'Becker'
           git config user.email '227158876+Beckerr11@users.noreply.github.com'
-          git add assets/github-overview.svg assets/github-activity.svg assets/metrics.json
+          git add assets/github-overview.svg assets/github-details.svg assets/github-activity.svg assets/metrics.json
           if ! git diff --cached --quiet; then
             git commit -m "chore: refresh account metric aggregates"
             git pull --rebase origin main
