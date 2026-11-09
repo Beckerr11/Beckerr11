@@ -78,7 +78,7 @@
 ### Task 4: Evaluate private repositories for publication
 
 **Repositories:**
-- `douglasdev-platform`
+- `becker-platform`
 - `finance-tracker-api`
 - `react-kanban-board`
 - `url-shortener`
@@ -94,7 +94,7 @@
 - [ ] Check repository purpose and whether public exposure improves or weakens the target Full Stack/software engineering narrative.
 - [ ] Check third-party code/assets and license compatibility before recommending public visibility.
 - [ ] Verify README, tests, CI, deterministic installation, and repository hygiene for every `PROMOTE_PUBLIC` candidate.
-- [ ] Do not change visibility on `douglasdev-platform`, `LDA-STORE`, or `NightCityOS` unless the security/IP review is unequivocally clean and publication has clear portfolio value.
+- [ ] Do not change visibility on `becker-platform`, `LDA-STORE`, or `NightCityOS` unless the security/IP review is unequivocally clean and publication has clear portfolio value.
 - [ ] Prefer a sanitized public case-study repository when a private flagship contains valuable architecture but should not expose implementation details.
 
 ### Task 5: Reduce low-signal public noise
@@ -158,7 +158,7 @@
 - Consumes: final visibility and flagship decisions from Tasks 2–6.
 - Produces: the final recruiter-facing profile.
 
-- [ ] Keep the display name as `Douglas Silva`.
+- [ ] Keep the display name as `Becker`.
 - [ ] Lead with role, location, portfolio, and target opportunity in compact language.
 - [ ] Feature no more than six projects, each with a distinct reason to click.
 - [ ] Ensure every featured repository is public or has a public case-study/demo destination.
@@ -175,5 +175,5 @@
 - [ ] Check all open portfolio-related PRs and merge only those with passing required checks.
 - [ ] Check every featured README and demo link.
 - [ ] Confirm no private repository was exposed without completing the publication-safety gate.
-- [ ] Confirm the profile README names only verified projects and uses `Douglas Silva` consistently.
+- [ ] Confirm the profile README names only verified projects and uses `Becker` consistently.
 - [ ] Record remaining intentional private repositories and why they remain private.

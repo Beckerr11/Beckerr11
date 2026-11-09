@@ -1,130 +1,50 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Full+Stack+Development;Backend+%26+APIs;CI%2FCD+%26+Automation;Security+by+Design;Computer+Science+Student" alt="Full Stack, Backend, CI/CD e Computer Science" />
+<img src="assets/becker-banner.svg" width="100%" alt="Becker — code, coffee, craft" />
 
-# Douglas Silva
+### Full Stack · Backend · Automação
 
-**Desenvolvedor · Ciência da Computação · São Paulo, Brasil**
+Aplicações, APIs e ferramentas feitas com atenção ao código e à experiência de quem usa.
 
-Construo aplicações web, APIs e automações com foco em **código verificável, testes, segurança, documentação e entrega real**.
-
-<a href="https://douglasdev.tech"><img src="https://img.shields.io/badge/PORTFÓLIO-douglasdev.tech-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
-<a href="https://douglasdev.tech/curriculo-douglas-aparecido-silva.pdf"><img src="https://img.shields.io/badge/CURRÍCULO-222222?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Currículo" /></a>
+[![GitHub](https://img.shields.io/badge/Beckerr11-0d1117?style=for-the-badge&logo=github&logoColor=79e6b3)](https://github.com/Beckerr11?tab=repositories)
+[![Atividade](https://img.shields.io/badge/Atividade_pública-0d1117?style=for-the-badge&logo=git&logoColor=79e6b3)](https://github.com/Beckerr11?tab=overview)
 
 </div>
 
----
+## `becker@github:~$ whoami`
 
-### `douglas@github ~ $ whoami`
+Desenvolvedor e estudante de Ciência da Computação. Trabalho com interfaces, APIs, persistência, testes e automação. Gosto de transformar ideias em projetos que possam ser executados, inspecionados e melhorados.
 
 ```text
-Computer Science student building production-minded software.
-
-Focus       -> Full Stack / Backend / Software Engineering
-Engineering -> APIs, tests, CI/CD, security and documentation
-Goal        -> internship / software development opportunity
+build     interfaces claras + APIs bem definidas
+ship      testes + documentação + CI/CD
+explore   automação + ferramentas + engenharia de software
+fuel      coffee
 ```
 
-## Sobre mim
+## Projetos selecionados
 
-Sou estudante de **Ciência da Computação** e desenvolvedor. Uso meus projetos para praticar o ciclo completo de engenharia: **interface, API, persistência, autenticação, testes, automação, observabilidade, segurança e deploy**.
+| Projeto | Foco |
+| :--- | :--- |
+| [URL Shortener API](https://github.com/Beckerr11/url-shortener-api) | Encurtamento de URLs, backend HTTP e testes |
+| [Client Portal Pro](https://github.com/Beckerr11/client-portal-pro) | Interface React e API Node.js |
+| [GitHub Security Automation](https://github.com/Beckerr11/github-security-automation) | Python, GitHub API e automação |
+| [Fullstack E2E Blueprint](https://github.com/Beckerr11/fullstack-e2e-blueprint) | Contratos HTTP e testes ponta a ponta |
 
-Prefiro projetos que possam ser abertos, executados e avaliados tecnicamente. Por isso, separo com clareza o que é **produto**, **demo**, **experimento** e **trabalho em evolução** — e evito apresentar roadmap como funcionalidade pronta.
-
-## Se você está avaliando meu perfil
-
-Se tiver poucos minutos, estes três projetos mostram áreas diferentes do meu trabalho:
-
-1. **[URL Shortener API](https://github.com/Beckerr11/url-shortener-api)** — backend HTTP, testes de integração, container Docker executável, health check e CI.
-2. **[Client Portal Pro](https://github.com/Beckerr11/client-portal-pro)** — fluxo full stack com React, Node/Express, validação, testes e checkout reproduzível.
-3. **[GitHub Security Automation](https://github.com/Beckerr11/github-security-automation)** — Python, GitHub API, automação defensiva, Pytest, CI e CodeQL.
-
-O padrão que procuro demonstrar é simples: **afirmações no README precisam ter evidência no código, nos testes ou no CI**.
-
-## Stack principal
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
-<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis" />
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-<img src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-
-</div>
-
-<div align="center">
-
-`REST APIs` · `Authentication` · `Validation` · `Testing` · `CI/CD` · `Docker` · `Observability` · `Security` · `Documentation`
-
-</div>
-
-## Projetos em destaque
-
-| Projeto | O que demonstra | Engenharia / stack |
-| --- | --- | --- |
-| **[URL Shortener API](https://github.com/Beckerr11/url-shortener-api)** | API funcional de encurtamento, aliases, redirect, analytics e health check | Node.js · Express · Jest · Supertest · Docker · CI · Dependabot |
-| **[Client Portal Pro](https://github.com/Beckerr11/client-portal-pro)** | Fluxo full stack para demandas, filtros, exportação CSV e API validada | React · Node.js · Express · Zod · Tests · CI |
-| **[GitHub Security Automation](https://github.com/Beckerr11/github-security-automation)** | Automação defensiva para avaliar configurações e evidências de segurança de repositórios | Python · GitHub API · Pytest · CI · CodeQL |
-| **[Fullstack E2E Blueprint](https://github.com/Beckerr11/fullstack-e2e-blueprint)** | Backend pequeno orientado a contrato HTTP e fluxo ponta a ponta | Node.js · Smoke Tests · E2E · CI · Dependabot |
-| **[SaaS Auth Dashboard Demo](https://github.com/Beckerr11/saas-auth-dashboard-demo)** | Showcase público de UX de autenticação, sessão e dashboard com escopo de demo explícito | React · Vite · localStorage · Tests · [Demo](https://saas-auth-dashboard-demo.vercel.app) |
-| **[CRM Comercial Demo](https://github.com/Beckerr11/crm-comercial-fullstack)** | Showcase público de clientes, catálogo, propostas e compartilhamento | React · Vite · camada mock · localStorage · [Demo](https://crm-comercial-fullstack.vercel.app) |
-
-### Produto principal
-
-**[DouglasDev.tech](https://douglasdev.tech)** é meu portfólio e laboratório full stack. O ecossistema reúne apresentação profissional, serviços, autenticação, CRM, analytics, área do cliente e experimentos de IA aplicada. O código principal é mantido em repositório privado, enquanto produto e demos públicas funcionam como evidência verificável do trabalho.
-
-## GitHub em números
-
-<div align="center">
-  <img src="./assets/github-overview.svg" width="100%" alt="Resumo do GitHub de Douglas Silva" />
-</div>
+## Ferramentas do dia a dia
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="48%" alt="Estatísticas de commits, PRs e issues" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="48%" alt="Distribuição de atividade por horário" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,mongodb,redis,docker,git,githubactions&theme=dark&perline=10" alt="TypeScript, JavaScript, React, Node.js, Python, MongoDB, Redis, Docker, Git e GitHub Actions" />
 </p>
 
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" alt="Linguagens por repositório" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" alt="Linguagens mais presentes nos commits" />
-</p>
+## GitHub em movimento
 
-> Os cards automáticos usam somente dados que o workflow consegue consultar com segurança. Repositórios privados não têm nomes nem conteúdo expostos no perfil público.
+<img src="assets/github-overview.svg" width="100%" alt="Métricas públicas de Becker: PRs, merges, contribuições e repositórios" />
 
-## Atividade recente
+<img src="assets/github-activity.svg" width="100%" alt="Atividade pública recente de Becker" />
 
-<div align="center">
-  <img src="./assets/github-activity.svg" width="100%" alt="Atividade recente de Douglas Silva no GitHub" />
-</div>
-
-Os cards de análise são gerados pelo **GitHub Actions deste próprio repositório** e atualizados diariamente. A timeline prioriza eventos públicos que um recrutador consegue abrir e verificar diretamente.
-
-## O que você encontra neste GitHub
-
-- **APIs e backend:** contratos HTTP, validação, autenticação, testes e organização de serviços.
-- **Produtos full stack:** aplicações que conectam interface, dados e fluxo de negócio.
-- **Qualidade:** Jest/Pytest, CI, Dependency Review, Dependabot, Docker e documentação reprodutível onde fazem sentido.
-- **Segurança:** automações defensivas, limites explícitos e evidência separada de hipótese ou funcionalidade futura.
-- **Evolução:** projetos de estudo continuam como histórico, mas a seleção principal prioriza software tecnicamente verificável.
+<sub>Dados públicos consultados pela API do GitHub. Atualização automática programada a cada 5 minutos, sujeita à fila do GitHub Actions e ao cache de imagens. O horário da última coleta aparece nos cards. PRs em outros repositórios entram na próxima coleta.</sub>
 
 ---
 
-<div align="center">
-
-### Aberto a oportunidades de desenvolvimento de software
-
-**Full Stack · Backend · Software Engineering**
-
-<a href="https://douglasdev.tech">Portfólio</a> 
-
-<sub>Projetos e capacidades são descritos de acordo com o estado verificável de cada repositório.</sub>
-
-</div>
+<p align="center"><sub>BECKER / keep building.</sub></p>
