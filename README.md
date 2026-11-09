@@ -60,12 +60,12 @@ My interests also include cybersecurity, application security, and the connectio
 
 ## `$ github --stats`
 
-<img src="assets/github-overview.svg" width="100%" alt="Becker: contributions, pull requests, merged PRs, profile commits, repositories, and issues" />
+<img src="assets/github-overview.svg?v=compact-en-1" width="100%" alt="Becker: contributions, pull requests, merged PRs, profile commits, repositories, and issues" />
 
 <details>
 <summary>More stats & data coverage</summary>
 
-<img src="assets/github-details.svg" width="100%" alt="Detailed account statistics" />
+<img src="assets/github-details.svg?v=compact-en-1" width="100%" alt="Detailed account statistics" />
 
 Account totals are collected directly from the GitHub API, including accessible private activity as aggregate counts only. Commit and contribution counts follow GitHub profile attribution rules; they do not represent every commit on every branch.
 
@@ -75,7 +75,7 @@ GitHub Actions checks for updates every 5 minutes, even when my computer is offl
 
 ## `$ github --activity`
 
-<img src="assets/github-activity.svg" width="100%" alt="Recent public pull request updates" />
+<img src="assets/github-activity.svg?v=compact-en-1" width="100%" alt="Recent public pull request updates" />
 
 ---
 
