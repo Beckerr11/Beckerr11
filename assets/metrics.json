@@ -1,10 +1,10 @@
 {
   "scope": "account",
   "since": "2025-08-18",
-  "prs": 344,
-  "prsOpen": 117,
-  "prsMerged": 209,
-  "prsClosed": 18,
+  "prs": 348,
+  "prsOpen": 20,
+  "prsMerged": 214,
+  "prsClosed": 114,
   "issues": 43,
   "repositories": 44,
   "publicRepositories": 37,
@@ -12,9 +12,9 @@
   "stars": 1,
   "followers": 3,
   "following": 2,
-  "commits": 294,
+  "commits": 295,
   "reviews": 0,
-  "contributions": 1115,
-  "restrictedContributions": 606,
-  "updatedAt": "2026-11-18T12:20:45.652Z"
+  "contributions": 1369,
+  "restrictedContributions": 859,
+  "updatedAt": "2026-11-18T20:43:24.608Z"
 }
